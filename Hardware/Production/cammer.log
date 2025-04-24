@@ -1,32 +1,32 @@
-2025-04-24 21:25:40,809 - cammer_logger - INFO - Running CAMmer
-2025-04-24 21:25:40,809 - cammer_logger - INFO - ['-l', 'F.Cu,In1.Cu,In2.Cu,B.Cu,F.Paste,B.Paste,F.Silkscreen,B.Silkscreen,F.Mask,B.Mask', '-e', 'Edge.Cuts,User.Comments']
-2025-04-24 21:25:40,809 - cammer_logger - INFO - CAMMER START: 2025-04-24T21:25:40.809447
-2025-04-24 21:25:45,886 - cammer_logger - INFO - 
-START: 2025-04-24T21:25:40.809447
+2025-04-25 00:06:39,402 - cammer_logger - INFO - Running CAMmer
+2025-04-25 00:06:39,402 - cammer_logger - INFO - ['-l', 'F.Cu,In1.Cu,In2.Cu,B.Cu,F.Paste,B.Paste,F.Silkscreen,B.Silkscreen,F.Mask,B.Mask', '-e', 'Edge.Cuts,User.Comments']
+2025-04-25 00:06:39,402 - cammer_logger - INFO - CAMMER START: 2025-04-25T00:06:39.402246
+2025-04-25 00:06:44,270 - cammer_logger - INFO - 
+START: 2025-04-25T00:06:39.402246
 Board saved by user.
 Zones filled by CAMmer.
-Deleting existing C:/Users/pc235/Documents/GitHub/SparkFun_GNSS_mosaic-G5_P3/Hardware/Production/SparkFun_GNSS_mosaic-G5_P3_panelized.GTL
-Renaming C:/Users/pc235/Documents/GitHub/SparkFun_GNSS_mosaic-G5_P3/Hardware/Production/SparkFun_GNSS_mosaic-G5_P3_panelized-F_Cu.gbr to C:/Users/pc235/Documents/GitHub/SparkFun_GNSS_mosaic-G5_P3/Hardware/Production/SparkFun_GNSS_mosaic-G5_P3_panelized.GTL
-Deleting existing C:/Users/pc235/Documents/GitHub/SparkFun_GNSS_mosaic-G5_P3/Hardware/Production/SparkFun_GNSS_mosaic-G5_P3_panelized.GL2
-Renaming C:/Users/pc235/Documents/GitHub/SparkFun_GNSS_mosaic-G5_P3/Hardware/Production/SparkFun_GNSS_mosaic-G5_P3_panelized-In1_Cu.gbr to C:/Users/pc235/Documents/GitHub/SparkFun_GNSS_mosaic-G5_P3/Hardware/Production/SparkFun_GNSS_mosaic-G5_P3_panelized.GL2
-Deleting existing C:/Users/pc235/Documents/GitHub/SparkFun_GNSS_mosaic-G5_P3/Hardware/Production/SparkFun_GNSS_mosaic-G5_P3_panelized.GL3
-Renaming C:/Users/pc235/Documents/GitHub/SparkFun_GNSS_mosaic-G5_P3/Hardware/Production/SparkFun_GNSS_mosaic-G5_P3_panelized-In2_Cu.gbr to C:/Users/pc235/Documents/GitHub/SparkFun_GNSS_mosaic-G5_P3/Hardware/Production/SparkFun_GNSS_mosaic-G5_P3_panelized.GL3
-Deleting existing C:/Users/pc235/Documents/GitHub/SparkFun_GNSS_mosaic-G5_P3/Hardware/Production/SparkFun_GNSS_mosaic-G5_P3_panelized.GBL
-Renaming C:/Users/pc235/Documents/GitHub/SparkFun_GNSS_mosaic-G5_P3/Hardware/Production/SparkFun_GNSS_mosaic-G5_P3_panelized-B_Cu.gbr to C:/Users/pc235/Documents/GitHub/SparkFun_GNSS_mosaic-G5_P3/Hardware/Production/SparkFun_GNSS_mosaic-G5_P3_panelized.GBL
-Deleting existing C:/Users/pc235/Documents/GitHub/SparkFun_GNSS_mosaic-G5_P3/Hardware/Production/SparkFun_GNSS_mosaic-G5_P3_panelized.GTP
-Renaming C:/Users/pc235/Documents/GitHub/SparkFun_GNSS_mosaic-G5_P3/Hardware/Production/SparkFun_GNSS_mosaic-G5_P3_panelized-F_Paste.gbr to C:/Users/pc235/Documents/GitHub/SparkFun_GNSS_mosaic-G5_P3/Hardware/Production/SparkFun_GNSS_mosaic-G5_P3_panelized.GTP
-Deleting existing C:/Users/pc235/Documents/GitHub/SparkFun_GNSS_mosaic-G5_P3/Hardware/Production/SparkFun_GNSS_mosaic-G5_P3_panelized.GBP
-Renaming C:/Users/pc235/Documents/GitHub/SparkFun_GNSS_mosaic-G5_P3/Hardware/Production/SparkFun_GNSS_mosaic-G5_P3_panelized-B_Paste.gbr to C:/Users/pc235/Documents/GitHub/SparkFun_GNSS_mosaic-G5_P3/Hardware/Production/SparkFun_GNSS_mosaic-G5_P3_panelized.GBP
-Deleting existing C:/Users/pc235/Documents/GitHub/SparkFun_GNSS_mosaic-G5_P3/Hardware/Production/SparkFun_GNSS_mosaic-G5_P3_panelized.GTO
-Renaming C:/Users/pc235/Documents/GitHub/SparkFun_GNSS_mosaic-G5_P3/Hardware/Production/SparkFun_GNSS_mosaic-G5_P3_panelized-F_Silkscreen.gbr to C:/Users/pc235/Documents/GitHub/SparkFun_GNSS_mosaic-G5_P3/Hardware/Production/SparkFun_GNSS_mosaic-G5_P3_panelized.GTO
-Deleting existing C:/Users/pc235/Documents/GitHub/SparkFun_GNSS_mosaic-G5_P3/Hardware/Production/SparkFun_GNSS_mosaic-G5_P3_panelized.GBO
-Renaming C:/Users/pc235/Documents/GitHub/SparkFun_GNSS_mosaic-G5_P3/Hardware/Production/SparkFun_GNSS_mosaic-G5_P3_panelized-B_Silkscreen.gbr to C:/Users/pc235/Documents/GitHub/SparkFun_GNSS_mosaic-G5_P3/Hardware/Production/SparkFun_GNSS_mosaic-G5_P3_panelized.GBO
-Deleting existing C:/Users/pc235/Documents/GitHub/SparkFun_GNSS_mosaic-G5_P3/Hardware/Production/SparkFun_GNSS_mosaic-G5_P3_panelized.GTS
-Renaming C:/Users/pc235/Documents/GitHub/SparkFun_GNSS_mosaic-G5_P3/Hardware/Production/SparkFun_GNSS_mosaic-G5_P3_panelized-F_Mask.gbr to C:/Users/pc235/Documents/GitHub/SparkFun_GNSS_mosaic-G5_P3/Hardware/Production/SparkFun_GNSS_mosaic-G5_P3_panelized.GTS
-Deleting existing C:/Users/pc235/Documents/GitHub/SparkFun_GNSS_mosaic-G5_P3/Hardware/Production/SparkFun_GNSS_mosaic-G5_P3_panelized.GBS
-Renaming C:/Users/pc235/Documents/GitHub/SparkFun_GNSS_mosaic-G5_P3/Hardware/Production/SparkFun_GNSS_mosaic-G5_P3_panelized-B_Mask.gbr to C:/Users/pc235/Documents/GitHub/SparkFun_GNSS_mosaic-G5_P3/Hardware/Production/SparkFun_GNSS_mosaic-G5_P3_panelized.GBS
-Deleting existing C:/Users/pc235/Documents/GitHub/SparkFun_GNSS_mosaic-G5_P3/Hardware/Production/SparkFun_GNSS_mosaic-G5_P3_panelized.GKO
-Renaming C:/Users/pc235/Documents/GitHub/SparkFun_GNSS_mosaic-G5_P3/Hardware/Production/SparkFun_GNSS_mosaic-G5_P3_panelized-Edge_Cuts.gbr to C:/Users/pc235/Documents/GitHub/SparkFun_GNSS_mosaic-G5_P3/Hardware/Production/SparkFun_GNSS_mosaic-G5_P3_panelized.GKO
+Deleting existing C:\Users\pc235\Documents\GitHub\SparkFun_GNSS_mosaic-G5_P3\Hardware\Production\SparkFun_GNSS_mosaic-G5_P3_panelized.GTL
+Renaming C:\Users\pc235\Documents\GitHub\SparkFun_GNSS_mosaic-G5_P3\Hardware\Production\SparkFun_GNSS_mosaic-G5_P3_panelized-F_Cu.gbr to C:\Users\pc235\Documents\GitHub\SparkFun_GNSS_mosaic-G5_P3\Hardware\Production\SparkFun_GNSS_mosaic-G5_P3_panelized.GTL
+Deleting existing C:\Users\pc235\Documents\GitHub\SparkFun_GNSS_mosaic-G5_P3\Hardware\Production\SparkFun_GNSS_mosaic-G5_P3_panelized.GL2
+Renaming C:\Users\pc235\Documents\GitHub\SparkFun_GNSS_mosaic-G5_P3\Hardware\Production\SparkFun_GNSS_mosaic-G5_P3_panelized-In1_Cu.gbr to C:\Users\pc235\Documents\GitHub\SparkFun_GNSS_mosaic-G5_P3\Hardware\Production\SparkFun_GNSS_mosaic-G5_P3_panelized.GL2
+Deleting existing C:\Users\pc235\Documents\GitHub\SparkFun_GNSS_mosaic-G5_P3\Hardware\Production\SparkFun_GNSS_mosaic-G5_P3_panelized.GL3
+Renaming C:\Users\pc235\Documents\GitHub\SparkFun_GNSS_mosaic-G5_P3\Hardware\Production\SparkFun_GNSS_mosaic-G5_P3_panelized-In2_Cu.gbr to C:\Users\pc235\Documents\GitHub\SparkFun_GNSS_mosaic-G5_P3\Hardware\Production\SparkFun_GNSS_mosaic-G5_P3_panelized.GL3
+Deleting existing C:\Users\pc235\Documents\GitHub\SparkFun_GNSS_mosaic-G5_P3\Hardware\Production\SparkFun_GNSS_mosaic-G5_P3_panelized.GBL
+Renaming C:\Users\pc235\Documents\GitHub\SparkFun_GNSS_mosaic-G5_P3\Hardware\Production\SparkFun_GNSS_mosaic-G5_P3_panelized-B_Cu.gbr to C:\Users\pc235\Documents\GitHub\SparkFun_GNSS_mosaic-G5_P3\Hardware\Production\SparkFun_GNSS_mosaic-G5_P3_panelized.GBL
+Deleting existing C:\Users\pc235\Documents\GitHub\SparkFun_GNSS_mosaic-G5_P3\Hardware\Production\SparkFun_GNSS_mosaic-G5_P3_panelized.GTP
+Renaming C:\Users\pc235\Documents\GitHub\SparkFun_GNSS_mosaic-G5_P3\Hardware\Production\SparkFun_GNSS_mosaic-G5_P3_panelized-F_Paste.gbr to C:\Users\pc235\Documents\GitHub\SparkFun_GNSS_mosaic-G5_P3\Hardware\Production\SparkFun_GNSS_mosaic-G5_P3_panelized.GTP
+Deleting existing C:\Users\pc235\Documents\GitHub\SparkFun_GNSS_mosaic-G5_P3\Hardware\Production\SparkFun_GNSS_mosaic-G5_P3_panelized.GBP
+Renaming C:\Users\pc235\Documents\GitHub\SparkFun_GNSS_mosaic-G5_P3\Hardware\Production\SparkFun_GNSS_mosaic-G5_P3_panelized-B_Paste.gbr to C:\Users\pc235\Documents\GitHub\SparkFun_GNSS_mosaic-G5_P3\Hardware\Production\SparkFun_GNSS_mosaic-G5_P3_panelized.GBP
+Deleting existing C:\Users\pc235\Documents\GitHub\SparkFun_GNSS_mosaic-G5_P3\Hardware\Production\SparkFun_GNSS_mosaic-G5_P3_panelized.GTO
+Renaming C:\Users\pc235\Documents\GitHub\SparkFun_GNSS_mosaic-G5_P3\Hardware\Production\SparkFun_GNSS_mosaic-G5_P3_panelized-F_Silkscreen.gbr to C:\Users\pc235\Documents\GitHub\SparkFun_GNSS_mosaic-G5_P3\Hardware\Production\SparkFun_GNSS_mosaic-G5_P3_panelized.GTO
+Deleting existing C:\Users\pc235\Documents\GitHub\SparkFun_GNSS_mosaic-G5_P3\Hardware\Production\SparkFun_GNSS_mosaic-G5_P3_panelized.GBO
+Renaming C:\Users\pc235\Documents\GitHub\SparkFun_GNSS_mosaic-G5_P3\Hardware\Production\SparkFun_GNSS_mosaic-G5_P3_panelized-B_Silkscreen.gbr to C:\Users\pc235\Documents\GitHub\SparkFun_GNSS_mosaic-G5_P3\Hardware\Production\SparkFun_GNSS_mosaic-G5_P3_panelized.GBO
+Deleting existing C:\Users\pc235\Documents\GitHub\SparkFun_GNSS_mosaic-G5_P3\Hardware\Production\SparkFun_GNSS_mosaic-G5_P3_panelized.GTS
+Renaming C:\Users\pc235\Documents\GitHub\SparkFun_GNSS_mosaic-G5_P3\Hardware\Production\SparkFun_GNSS_mosaic-G5_P3_panelized-F_Mask.gbr to C:\Users\pc235\Documents\GitHub\SparkFun_GNSS_mosaic-G5_P3\Hardware\Production\SparkFun_GNSS_mosaic-G5_P3_panelized.GTS
+Deleting existing C:\Users\pc235\Documents\GitHub\SparkFun_GNSS_mosaic-G5_P3\Hardware\Production\SparkFun_GNSS_mosaic-G5_P3_panelized.GBS
+Renaming C:\Users\pc235\Documents\GitHub\SparkFun_GNSS_mosaic-G5_P3\Hardware\Production\SparkFun_GNSS_mosaic-G5_P3_panelized-B_Mask.gbr to C:\Users\pc235\Documents\GitHub\SparkFun_GNSS_mosaic-G5_P3\Hardware\Production\SparkFun_GNSS_mosaic-G5_P3_panelized.GBS
+Deleting existing C:\Users\pc235\Documents\GitHub\SparkFun_GNSS_mosaic-G5_P3\Hardware\Production\SparkFun_GNSS_mosaic-G5_P3_panelized.GKO
+Renaming C:\Users\pc235\Documents\GitHub\SparkFun_GNSS_mosaic-G5_P3\Hardware\Production\SparkFun_GNSS_mosaic-G5_P3_panelized-Edge_Cuts.gbr to C:\Users\pc235\Documents\GitHub\SparkFun_GNSS_mosaic-G5_P3\Hardware\Production\SparkFun_GNSS_mosaic-G5_P3_panelized.GKO
 Drill report: C:\Users\pc235\Documents\GitHub\SparkFun_GNSS_mosaic-G5_P3\Hardware\Production\drill_report.rpt
 
-2025-04-24 21:25:47,465 - cammer_logger - INFO - CAMmer complete
+2025-04-25 00:06:46,054 - cammer_logger - INFO - CAMmer complete

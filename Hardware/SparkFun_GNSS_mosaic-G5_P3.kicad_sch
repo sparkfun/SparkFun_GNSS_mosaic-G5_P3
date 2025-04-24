@@ -4554,6 +4554,331 @@
 					(hide yes)
 				)
 			)
+			(symbol "mosaic-G5_P3_1_0"
+				(pin no_connect line
+					(at 29.21 20.32 180)
+					(length 2.54)
+					(hide yes)
+					(name "Reserved"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 29.21 19.05 180)
+					(length 2.54)
+					(hide yes)
+					(name "Reserved"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "15"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 29.21 17.78 180)
+					(length 2.54)
+					(hide yes)
+					(name "Reserved"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "16"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 29.21 16.51 180)
+					(length 2.54)
+					(hide yes)
+					(name "Reserved"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "18"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 29.21 15.24 180)
+					(length 2.54)
+					(hide yes)
+					(name "Reserved"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "19"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 29.21 13.97 180)
+					(length 2.54)
+					(hide yes)
+					(name "Reserved"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "20"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 29.21 12.7 180)
+					(length 2.54)
+					(hide yes)
+					(name "Reserved"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "22"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 29.21 11.43 180)
+					(length 2.54)
+					(hide yes)
+					(name "Reserved"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "23"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 29.21 10.16 180)
+					(length 2.54)
+					(hide yes)
+					(name "Reserved"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "24"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 29.21 8.89 180)
+					(length 2.54)
+					(hide yes)
+					(name "Reserved"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "30"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 29.21 7.62 180)
+					(length 2.54)
+					(hide yes)
+					(name "Reserved"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "31"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 29.21 6.35 180)
+					(length 2.54)
+					(hide yes)
+					(name "Reserved"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "32"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 29.21 5.08 180)
+					(length 2.54)
+					(hide yes)
+					(name "Reserved"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "33"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 29.21 3.81 180)
+					(length 2.54)
+					(hide yes)
+					(name "Reserved"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "35"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 29.21 2.54 180)
+					(length 2.54)
+					(hide yes)
+					(name "Reserved"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "36"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 29.21 1.27 180)
+					(length 2.54)
+					(hide yes)
+					(name "Reserved"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "37"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 29.21 0 180)
+					(length 2.54)
+					(hide yes)
+					(name "Reserved"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "38"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
 			(symbol "mosaic-G5_P3_1_1"
 				(rectangle
 					(start -10.16 21.59)
@@ -16534,7 +16859,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Iq" "4µA"
@@ -16776,7 +17100,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "SparkFun-Semiconductor-Standard:SOT-353"
@@ -16822,7 +17145,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(pin "5"
@@ -17627,6 +17949,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "54"
@@ -17859,6 +18182,57 @@
 		)
 		(pin "26"
 			(uuid "3a8d49e0-bff9-49dc-b567-7703eecdc219")
+		)
+		(pin "8"
+			(uuid "0ac286f0-975d-4334-ac25-0cf9f0b60620")
+		)
+		(pin "16"
+			(uuid "22b74d27-3928-44a2-8699-469ec49aa34a")
+		)
+		(pin "24"
+			(uuid "13f8f477-da47-4f42-9087-8bab25437b09")
+		)
+		(pin "15"
+			(uuid "ca32d855-50ca-4ba8-87f2-1ffccd4dc454")
+		)
+		(pin "36"
+			(uuid "d5f6e8e5-2781-4fa5-9668-05433e3fdc0e")
+		)
+		(pin "23"
+			(uuid "8c2cfc0c-9f7b-4933-a5e4-e66d7f4316c1")
+		)
+		(pin "35"
+			(uuid "ed28258c-42fe-4c81-b2e5-068f3fcb5365")
+		)
+		(pin "18"
+			(uuid "eb544b22-6f64-4c9c-80e4-bba7786f5788")
+		)
+		(pin "19"
+			(uuid "34fed7bb-7319-46ed-b70c-cdc857cf3d8d")
+		)
+		(pin "22"
+			(uuid "c4d8eaef-50ab-4b5e-9e79-7503f5ec74d7")
+		)
+		(pin "20"
+			(uuid "33364faf-1afb-4e28-ac42-e839a8c89c85")
+		)
+		(pin "30"
+			(uuid "68f0f86e-a654-4c8f-bcb6-a1ff274b6031")
+		)
+		(pin "32"
+			(uuid "fb5eb245-7d28-4512-b0c0-01f2dec91b09")
+		)
+		(pin "33"
+			(uuid "d01b5435-729f-4538-b2c2-4795639335e0")
+		)
+		(pin "31"
+			(uuid "2a4b7af9-2855-489e-b99c-8ba8798e4b74")
+		)
+		(pin "37"
+			(uuid "565c3fc5-4133-485b-8684-96fb64b51d71")
+		)
+		(pin "38"
+			(uuid "9c492f14-c93e-4130-aea9-8a17cd7857ad")
 		)
 		(instances
 			(project ""
@@ -19014,7 +19388,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "SparkFun-Semiconductor-Standard:SOT-353"
@@ -19060,7 +19433,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(pin "5"
@@ -23301,7 +23673,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "SparkFun-Semiconductor-Standard:SOT-353"
@@ -23347,7 +23718,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(pin "5"
