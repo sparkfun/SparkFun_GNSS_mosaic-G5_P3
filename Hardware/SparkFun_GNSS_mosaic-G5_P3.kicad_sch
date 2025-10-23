@@ -6,7 +6,7 @@
 	(paper "USLedger")
 	(title_block
 		(title "mosaic-G5 P3 Allband GNSS Receiver Breakout")
-		(date "2025-04-23")
+		(date "2025-10-23")
 		(rev "v01")
 		(company "SparkFun Electronics")
 		(comment 1 "Designed by: P.C.")
@@ -1709,7 +1709,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "SparkFun-Coil:470Ohm_0603_1.0A"
+		(symbol "SparkFun-Coil:Ferrite_470Ohm_0603_1.0A"
 			(pin_numbers
 				(hide yes)
 			)
@@ -1728,7 +1728,7 @@
 					)
 				)
 			)
-			(property "Value" "470Ohm"
+			(property "Value" "470 Ohm"
 				(at 0 -1.27 0)
 				(effects
 					(font
@@ -1780,7 +1780,7 @@
 					)
 				)
 			)
-			(property "ki_keywords" "SparkFun inductor choke coil reactor magnetic"
+			(property "ki_keywords" "SparkFun inductor choke coil reactor magnetic ferrite"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1798,7 +1798,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "470Ohm_0603_1.0A_0_1"
+			(symbol "Ferrite_470Ohm_0603_1.0A_0_1"
 				(polyline
 					(pts
 						(xy -1.905 1.016) (xy -1.651 1.016)
@@ -2040,7 +2040,7 @@
 					)
 				)
 			)
-			(symbol "470Ohm_0603_1.0A_1_1"
+			(symbol "Ferrite_470Ohm_0603_1.0A_1_1"
 				(pin passive line
 					(at -2.54 0 0)
 					(length 0.508)
@@ -6064,7 +6064,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "SparkFun-GPS:mosaic-G5_P3"
+		(symbol "SparkFun-GNSS:mosaic-G5_P3"
 			(pin_names
 				(offset 0.254)
 			)
@@ -6087,7 +6087,7 @@
 					)
 				)
 			)
-			(property "Footprint" "SparkFun-GPS:MOSAIC-G5_LGA54"
+			(property "Footprint" "SparkFun-GNSS:Septentrio_mosaic-G5_LGA54"
 				(at 0 -29.718 0)
 				(effects
 					(font
@@ -11310,12 +11310,24 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "TX2 and RX2 are 3.3V\n\nR8 protects against\n5V signal input"
+		(exclude_from_sim no)
+		(at 93.98 243.84 0)
+		(effects
+			(font
+				(size 1.5 1.5)
+				(color 132 132 132 1)
+			)
+		)
+		(uuid "2c3855e5-369b-4be1-bece-f72b3cd17436")
+	)
 	(text "Microstrip (Coplanar Single Ended) 50Ω Calculation:\nhttps://jlcpcb.com/pcb-impedance-calculator\nBoard thickness: 1.6mm. Layers: 4. Er: 4.4 (7628 Prepreg)\nDielectric Thickness (Layer 1 to 2): 8.28mil/0.2104mm (JLC7628)\nCopper Thickness (1oz outer / 0.5oz inner): 1.38mil/0.035mm\nPolygon Isolation: 7mil/0.1778mm\nTrace Width: 11.1mil/0.2819mm"
 		(exclude_from_sim no)
 		(at 151.892 185.42 0)
 		(effects
 			(font
 				(size 1 1)
+				(color 132 132 132 1)
 			)
 			(justify left)
 		)
@@ -11327,6 +11339,7 @@
 		(effects
 			(font
 				(size 1 1)
+				(color 132 132 132 1)
 			)
 			(justify left)
 		)
@@ -11338,6 +11351,7 @@
 		(effects
 			(font
 				(size 1 1)
+				(color 132 132 132 1)
 			)
 			(justify left)
 		)
@@ -11359,6 +11373,7 @@
 		(effects
 			(font
 				(size 1.5 1.5)
+				(color 132 132 132 1)
 			)
 		)
 		(uuid "7e8cfad0-7c56-4ac2-ab7f-4104e8183f18")
@@ -11379,6 +11394,7 @@
 		(effects
 			(font
 				(size 0.762 0.762)
+				(color 132 132 132 1)
 			)
 		)
 		(uuid "8a4a98b5-2e20-4af5-a0b6-63a879d671d0")
@@ -11997,7 +12013,7 @@
 	)
 	(wire
 		(pts
-			(xy 90.17 223.52) (xy 90.17 222.25)
+			(xy 88.9 223.52) (xy 88.9 222.25)
 		)
 		(stroke
 			(width 0)
@@ -12389,7 +12405,7 @@
 	)
 	(wire
 		(pts
-			(xy 340.36 72.39) (xy 340.36 73.66)
+			(xy 340.36 73.66) (xy 340.36 74.93)
 		)
 		(stroke
 			(width 0)
@@ -13714,7 +13730,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 223.52) (xy 90.17 223.52)
+			(xy 96.52 223.52) (xy 88.9 223.52)
 		)
 		(stroke
 			(width 0)
@@ -14779,7 +14795,7 @@
 	)
 	(symbol
 		(lib_id "SparkFun-Connector:TestPoint_1.25mm")
-		(at 340.36 72.39 0)
+		(at 340.36 73.66 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14788,7 +14804,7 @@
 		(fields_autoplaced yes)
 		(uuid "015c66f4-61f9-4571-9088-86ef47a554a8")
 		(property "Reference" "TP2"
-			(at 340.36 67.31 0)
+			(at 340.36 68.58 0)
 			(do_not_autoplace yes)
 			(effects
 				(font
@@ -14797,7 +14813,7 @@
 			)
 		)
 		(property "Value" "1.25mm"
-			(at 340.36 76.2 0)
+			(at 340.36 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14806,15 +14822,6 @@
 			)
 		)
 		(property "Footprint" "SparkFun-Connector:TestPoint-1.25mm"
-			(at 340.36 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
 			(at 340.36 80.01 0)
 			(effects
 				(font
@@ -14823,8 +14830,17 @@
 				(hide yes)
 			)
 		)
+		(property "Datasheet" "~"
+			(at 340.36 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Description" "Test Point"
-			(at 340.36 82.55 0)
+			(at 340.36 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16274,7 +16290,7 @@
 	)
 	(symbol
 		(lib_id "SparkFun-PowerSymbol:VOUT")
-		(at 90.17 222.25 0)
+		(at 88.9 222.25 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16283,7 +16299,7 @@
 		(fields_autoplaced yes)
 		(uuid "2fd2ae0a-2c7c-4db4-8137-6dd32ed53933")
 		(property "Reference" "#PWR010"
-			(at 90.17 226.06 0)
+			(at 88.9 226.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16292,7 +16308,7 @@
 			)
 		)
 		(property "Value" "VOUT"
-			(at 90.17 218.44 0)
+			(at 88.9 218.44 0)
 			(do_not_autoplace yes)
 			(effects
 				(font
@@ -16301,7 +16317,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 90.17 222.25 0)
+			(at 88.9 222.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16310,7 +16326,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 90.17 222.25 0)
+			(at 88.9 222.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16319,7 +16335,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VOUT\""
-			(at 90.17 228.6 0)
+			(at 88.9 228.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17525,10 +17541,11 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Value" "~"
-			(at 350.52 69.85 0)
+		(property "Value" "REF"
+			(at 350.52 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17842,7 +17859,7 @@
 		)
 	)
 	(symbol
-		(lib_id "SparkFun-GPS:mosaic-G5_P3")
+		(lib_id "SparkFun-GNSS:mosaic-G5_P3")
 		(at 367.03 62.23 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -17867,7 +17884,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-GPS:MOSAIC-G5_LGA54"
+		(property "Footprint" "SparkFun-GNSS:Septentrio_mosaic-G5_LGA54"
 			(at 367.03 91.948 0)
 			(effects
 				(font
@@ -18355,7 +18372,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "VSEL"
 			(at 96.52 216.916 0)
 			(effects
 				(font
@@ -20229,7 +20246,7 @@
 		)
 	)
 	(symbol
-		(lib_id "SparkFun-Coil:470Ohm_0603_1.0A")
+		(lib_id "SparkFun-Coil:Ferrite_470Ohm_0603_1.0A")
 		(at 347.98 54.61 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -20245,8 +20262,8 @@
 				)
 			)
 		)
-		(property "Value" "470Ohm"
-			(at 343.408 56.388 0)
+		(property "Value" "470 Ohm"
+			(at 347.98 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20290,7 +20307,7 @@
 			)
 		)
 		(property "Frequency" "100MHz"
-			(at 352.552 56.388 0)
+			(at 347.98 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21391,7 +21408,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 340.36 73.66 0)
+		(at 340.36 74.93 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -21399,7 +21416,7 @@
 		(dnp no)
 		(uuid "a81cdc6a-e4ed-4001-9eba-256530bcf2a4")
 		(property "Reference" "#PWR024"
-			(at 340.36 80.01 0)
+			(at 340.36 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21408,7 +21425,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 340.36 77.47 0)
+			(at 340.36 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21416,7 +21433,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 340.36 73.66 0)
+			(at 340.36 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21425,7 +21442,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 340.36 73.66 0)
+			(at 340.36 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21434,7 +21451,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 340.36 73.66 0)
+			(at 340.36 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22891,10 +22908,11 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Value" "~"
-			(at 350.52 77.47 0)
+		(property "Value" "VREF"
+			(at 350.52 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
