@@ -146,3 +146,16 @@ Users should install the [RXTools software suite](https://www.septentrio.com/en/
 [^6]: Requires c privileges.
 [^7]: Changing these permissions also requires `root` privileges.
 
+
+
+## Serial Interface
+Once connected through the USB interface, the mosaic-G5 P3 module emulates two virtual serial ports, which can be accessed as standard `COM` ports to the receiver.
+
+!!! tip "Terminal Emulators"
+	Most [terminal emulation programs](https://learn.sparkfun.com/tutorials/112) will not make a distinction between virtual or native COM ports. However, for virtual serial ports, the port settings *(i.e. baudrate, etc.)* are not relevant and the default configuration be used in the terminal emulation program. However, for the physical/native `COM` ports will have the following default setting:
+
+	- Baudrate: 115200bps
+	- Data Bits: 8
+	- Parity: No
+	- Stop Bits: 1
+	- Flow Control: None

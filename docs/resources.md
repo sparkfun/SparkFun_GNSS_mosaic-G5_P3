@@ -8,7 +8,7 @@
 - Component Documentation
 	- :fontawesome-solid-file-pdf: [mosaic-G5 P3 Datasheet](./assets/component_documentation/mosaic-g5_hardware_manual_v1.1.1.pdf)
 		- :fontawesome-solid-file-pdf: [mosaic-G5 P3 Brochure](./assets/component_documentation/Septentrio_mosaic-G5_P3_&_P3H.pdf)
-		- :fontawesome-solid-file-pdf: [Firmware Manual *(v1.0.0)*](./assets/component_documentation/firmware/mosaic-G5 Firmware v1.0.0 Reference Guide.pdf)
+		- :fontawesome-solid-file-pdf: [Firmware Manual *(v1.0.1)*](./assets/component_documentation/firmware/v1.0.1/mosaic-G5%20Firmware%20v1.0.1%20Reference%20Guide.pdf)
 	- :fontawesome-solid-file-pdf: [JST-GH Connector Datasheet](./assets/component_documentation/JST-GH_datasheet.pdf)
 	- :fontawesome-solid-file-pdf: [RT9080 Datasheet](./assets/component_documentation/RT9080.pdf)
 - :material-youtube: [SFE Product Showcase](https://youtu.be/TSkIvtaVZc0)

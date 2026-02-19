@@ -199,7 +199,6 @@ plugins:
       # print_gain: true
       # print_gain_summary: true
 
-
   # Add revision date
   - git-revision-date-localized:
       # Disables plugin on local builds
@@ -413,15 +412,12 @@ not_in_nav: |
 # Webpage navigation menu
 nav:
   - Introduction: introduction.md
-  - Quick Start: quick_start.md
   - Hardware:
     - Hardware Overview: hardware_overview.md
     - Hardware Assembly: hardware_assembly.md
   - Software:
     - Software Overview: software_overview.md
-    - Software Options:
-      - Overview: software_overview.md
-      - RxTools: rxtools.md
+    - RxTools: rxtools.md
   - Resources: resources.md
   - Support:
     - Troubleshooting Tips: troubleshooting_tips.md

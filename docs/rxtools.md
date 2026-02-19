@@ -37,7 +37,7 @@
 !!! note
 	The mosaic-G5 P3 GNSS receiver has numerous capabilities and a multitude of ways to configure and interface with them. Without regurgitating all the information that is documented in Septentrio's user manuals and videos, we have tried to highlight a good majority of the GNSS receiver's aspects.
 
-	With that said, please feel free to [file an issue](../github/file_issue/#discrepancies-in-the-documentation) if you feel we have missed something that may benefit other users. *(Don't forget to provide us with a link to the documentation and what section the information is located.)*
+	With that said, please feel free to [file an issue](github/file_issue.md/#discrepancies-in-the-documentation) if you feel we have missed something that may benefit other users. *(Don't forget to provide us with a link to the documentation and what section the information is located.)*
 
 
 # RxTools Software Suite
@@ -229,14 +229,14 @@ The minimal hardware requirements *(1Hz update[^3])*:
 	[:septentrio: Find the Latest Firmware](https://www.septentrio.com/en/products/gnss-receivers/gnss-receiver-modules/mosaic-G5-P3#resources){ .md-button .md-button--primary target="blank" }
 	</article>
 
--   Currently, at the time that this board was released, the firmware for the mosaic-G5 P3 GNSS receiver was *v1.0.0*[^4]. Users can download [**version 1.0.0**](./assets/component_documentation/firmware/mosaic-G5_P3_fwp_1.0.0.zip) of the firmware, by clicking on the button below.
+-   Currently, at the time that this board was released, the firmware for the mosaic-G5 P3 GNSS receiver was *v1.0.1*[^4]. Users can download [**version 1.0.0**](./assets/component_documentation/firmware/v1.0.1/mosaic-G5%20P3_fwp_1.0.1.zip) of the firmware, by clicking on the button below.
 
 	[^4]:
 		For the latest firmware published by Septentrio, please visit their [product page](https://www.septentrio.com/en/products/gnss-receivers/gnss-receiver-modules/mosaic-G5-P3#resources).<br>
 		*This is firmware version, was archived at the time that this guide was written. Please do not request for the file to be updated; instead visit the product page to download the latest firmware.*
 
 	<article style="text-align: center;" markdown>
-	[:octicons-download-16:{ .heart } Download Firmware *(v1.0.0)*](./assets/component_documentation/firmware/mosaic-G5_P3_fwp_1.0.0.zip){ .md-button .md-button--primary target="blank" }
+	[:octicons-download-16:{ .heart } Download Firmware *(v1.0.1)*](./assets/component_documentation/firmware/v1.0.1/mosaic-G5%20P3_fwp_1.0.1.zip){ .md-button .md-button--primary target="blank" }
 	</article>
 
 </div>

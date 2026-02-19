@@ -406,7 +406,7 @@ The accuracy of the position reported from the mosaic-G5 P3 GNSS receiver, can b
 
 	-   <a href="https://www.septentrio.com/en/learn-more/insights/gnss-corrections-demystified">
 		<figure markdown>
-		![Tutorial Thumbnail](https://www.septentrio.com/sites/default/files/styles/blog_picture_v2/public/blog/Septentrio-GNSS-corrections-map-world-web.png)
+		![Tutorial Thumbnail](https://www.septentrio.com/sites/default/files/styles/blog_picture_v2/public/blog/Septentrio-GNSS-corrections-map-world-web.png?itok=3nUvB3xn)
 		</figure>
 
 		---
